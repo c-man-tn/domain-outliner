@@ -1,4 +1,4 @@
-# dom-vue
+# do-new
 
 ## Project setup
 ```
